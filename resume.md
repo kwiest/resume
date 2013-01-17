@@ -20,7 +20,7 @@ history, including one who is rightfully credited with revolutionizing the game.
 online registration and camp mangement software and started [Camp Registration
 Systems, LLC](https://campregistrationsystems.com). Camp Registration Systems
 is now responsible for all camps at the University of Oregon as well as the
-(Manning Passing Academy)[http://manningpassingacademy.com] and has processed
+[Manning Passing Academy](http://manningpassingacademy.com) and has processed
 over $2,000,000 in online transactions.
 
 Since starting work with Ruby and Rails a little over 3 years ago, I have become
