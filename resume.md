@@ -67,7 +67,7 @@ University of Oregon
 #### Founder - 2009 to Present
 
 * Business formation.
-* Have processed in excess of $2,000,000 of transactions.
+* Have processed in excess of $3,600,000 of transactions.
 * Full design/development.
 * Manage deployment.
 * Customer service.
