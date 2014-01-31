@@ -1,11 +1,11 @@
 # Kyle Wiest
 
 * [kyle.wiest@gmail.com](mailto:kyle.wiest@gmail.com)
-* [http://kylewiest.com](http://kylewiest.com)
+* [http://www.ecommerceonrails.com.com](http://www.ecommerceonrails.com)
 
 ## Background
 
-I am a software developer, the Assistant Director of Football Operations at the
+I am a software developer, the Director of Football Operations at the
 University of Oregon, a certified high school math teacher, and a life-long
 learner.
 
@@ -21,7 +21,7 @@ online registration and camp mangement software and started [Camp Registration
 Systems, LLC](https://campregistrationsystems.com). Camp Registration Systems
 is now responsible for all camps at the University of Oregon as well as the
 [Manning Passing Academy](http://manningpassingacademy.com) and has processed
-over $2,000,000 in online transactions.
+over $3,600,000 in online transactions.
 
 Since starting work with Ruby and Rails a little over 3 years ago, I have become
 increasingly interested in programming, and open source software. I hope that I
@@ -55,7 +55,16 @@ University of Oregon
 ## Work Experience
 
 ### University of Oregon
-#### Assistant Director of Football Operations - 2006 to Present
+#### Assistant Athletic Director - Director of Football Operations - 2013 to Present
+
+* Coordinate team travel logistics (planes, buses, hotels, etc).
+* Manage football scheduling.
+* Event Director.
+* Compliance liason.
+* Oversee football budget.
+
+### University of Oregon
+#### Assistant Director of Football Operations - 2006 to 2013
 
 * Coordinate team travel logistics (planes, buses, hotels, etc).
 * Coordinate football technology/web design.
