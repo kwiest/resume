@@ -63,6 +63,15 @@ University of Oregon
 * Compliance liason.
 * Oversee football budget.
 
+### Camp Registration Systems, LLC
+#### Founder - 2009 to Present
+
+* Business formation.
+* Have processed in excess of $2,000,000 of transactions.
+* Full design/development.
+* Manage deployment.
+* Customer service.
+
 ### University of Oregon
 #### Assistant Director of Football Operations - 2006 to 2013
 
@@ -72,15 +81,6 @@ University of Oregon
 * Manage various NCAA compliance documentation.
 * Pac-10/Pac-12 Conference Representative.
 * Camp Director for Oregon Football Camps.
-
-### Camp Registration Systems, LLC
-#### Founder - 2009 to Present
-
-* Business formation.
-* Have processed in excess of $2,000,000 of transactions.
-* Full design/development.
-* Manage deployment.
-* Customer service.
 
 ### Manning Passing Academy
 #### Assistant Camp Director - 2001 to Present
