@@ -5,25 +5,17 @@
 
 ## Background
 
-I am a software developer, the Director of Football Operations at the
-University of Oregon, a certified high school math teacher, and a life-long
-learner.
+I the Director of Football Operations at the University of Oregon, a software 
+developer, a certified high school math teacher, and a life-long learner.
 
-I am very proud to have played a role in helping the Oregon Ducks win 3
-outright conference championships, and be the only team in the nation to play in
-4 consecutive BCS Bowl Games, including the National Championship game in 2011.
-
-I have been fortunate enough to work under the 2 most decorated coaches in Oregon
-history, including one who is rightfully credited with revolutionizing the game.
-
-3 years ago, while working for various football camps I saw the need for simple
+5 years ago, while working for various football camps I saw the need for simple
 online registration and camp mangement software and started [Camp Registration
 Systems, LLC](https://campregistrationsystems.com). Camp Registration Systems
 is now responsible for all camps at the University of Oregon as well as the
 [Manning Passing Academy](http://manningpassingacademy.com) and has processed
-over $3,600,000 in online transactions.
+over $5,800,000 in online transactions.
 
-Since starting work with Ruby and Rails a little over 3 years ago, I have become
+Since starting work with Ruby and Rails a little over 5 years ago, I have become
 increasingly interested in programming, and open source software. I hope that I
 have more time in the future to contribute my own code to open source projects.
 
